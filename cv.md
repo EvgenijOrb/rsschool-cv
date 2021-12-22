@@ -17,3 +17,23 @@
 * ***HTML***
 * ***SQL***
 * ***Django***
+
+-----
+
+## Experience
+* ***Interactive courses on [stepik.org](stepik.org)***
+    + *[Profile]("https://stepik.org/lesson/488831/step/5?unit=480067")*
+
+-----
+## Sample Code
+
+```
+n=int(input())
+res={}
+for i in range(n):
+    t=tuple(input().split())
+    for j in range(1,len(t)):
+        res[t[j]]=t[0]
+m=int(input())
+for i in range(m)
+    print(res[input()])
