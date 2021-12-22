@@ -37,3 +37,13 @@ for i in range(n):
 m=int(input())
 for i in range(m)
     print(res[input()])
+```
+----- 
+## Education
+
+* ***Vitebsk State Technological University***
+    + *mechanical engineering technology* 
+
+-----
+## Languages
+* ***English - A1 (A2 in process…)***   
